@@ -1,5 +1,7 @@
 # 📌 Modelo de portafolio web
 
+![imagen del sitio](Images/github.png)
+
 ---
 
 ## 📝 Descripción
